@@ -22,7 +22,7 @@ You can find released APKs [here](https://github.com/crackededed/Xtra/releases/t
 ## License
 Xtra is licensed under the [GNU Affero General Public License v3.0](LICENSE).
 
-## Explanation o fthe fork
+## Explanation of the fork
 1.What's changed?
       Couple of buttons and the search bar have been removed from the app, preventing user from discowering/browsing/accessing channels which are not on the follwed          channel list.
 2.Who is this for?
