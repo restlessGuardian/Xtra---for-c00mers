@@ -39,4 +39,4 @@ Xtra is licensed under the [GNU Affero General Public License v3.0](LICENSE).
       -Enjoy safety and reliability of twitch without coom bait.</br>
 
 If you have any trouble following the instructions, shoot me a message, I will be happy to help you set it up </br>
-I want to express my deep gratitude for everyone who contributed to this project and allowed me the opportunity to have acess to Twitch.
+I want to express my deep gratitude for everyone who contributed to this project and allowed me the opportunity to have access to Twitch.
