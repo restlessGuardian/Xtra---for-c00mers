@@ -23,12 +23,12 @@ You can find released APKs [here](https://github.com/crackededed/Xtra/releases/t
 Xtra is licensed under the [GNU Affero General Public License v3.0](LICENSE).
 
 ## Explanation of the fork
-</br>
+
 1.What's changed?</br>
       Couple of buttons and the search bar have been removed from the app, preventing user from discowering/browsing/accessing channels which are not on the follwed          channel list.
       
 2.Who is this for?</br>
-      This is for people who have problem with self controll when it comes to explicit content on twitch. Mainly for NoFap and seemen retention communities. This is not      intended as a parental controll measure for your kids. Seek to make them strong rather than safe.
+      This is for people who have problem with self controll when it comes to explicit content on twitch. Mainly for NoFap and seemen retention communities. This is not      intended as a parental controll measure for your kids. Seek to make them strong rather than safe. </br>
       
 3.How do I use this mess you made?</br>
       Sadly this requires a relatively leanghty setup for now. </br>
