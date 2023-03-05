@@ -1,9 +1,0 @@
-query UsersLastBroadcast($ids: [ID!], $logins: [String!]) {
-    users(ids: $ids, logins: $logins) {
-        id
-        lastBroadcast {
-            startedAt
-        }
-        profileImageURL(width: 300)
-    }
-}

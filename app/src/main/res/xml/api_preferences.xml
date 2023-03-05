@@ -1,9 +1,0 @@
-<androidx.preference.PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android"
-    xmlns:app="http://schemas.android.com/apk/res-auto">
-
-    <Preference
-        android:key="api_token_settings"
-        android:title="@string/tokens"
-        app:iconSpaceReserved="false" />
-
-</androidx.preference.PreferenceScreen>
