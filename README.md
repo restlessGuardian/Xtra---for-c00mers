@@ -32,10 +32,10 @@ Xtra is licensed under the [GNU Affero General Public License v3.0](LICENSE).
       
 3.How do I use this mess you made?</br>
       Sadly this requires a relatively leanghty setup for now. </br>
-      -First off download main Xtra code made by crackededed. </br>
-      -Open it in Android Studio and build bundle (APK) without making any changes to the code.</br>
-      -Install the created APK to your android device and follow every stream you are interested in (spend some time making this list as it will be impossible to add               more later)</br>
-      -Download APK from my fork and install it, regularely, over the previous Xtra app on your android device.</br>
+      -First off download "open.clean.version.giantGuardian.apk" from latest release of my fork. </br>
+      -Install it.</br>
+      -Open up the app and follow every stream you are interested in (spend some time making this list as it will be impossible to add more later)</br>
+      -Download "closed.version.giantGuardian.apk" from my fork and install it, regularely, over the previous Xtra app on your android device.</br>
       -Enjoy safety and reliability of twitch without coom bait.</br>
 
 If you have any trouble following the instructions, shoot me a message, I will be happy to help you set it up </br>
